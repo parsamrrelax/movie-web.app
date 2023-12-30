@@ -589,7 +589,6 @@ dog
 doll
 dolphin
 domain
-donate
 donkey
 donor
 door
