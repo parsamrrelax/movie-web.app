@@ -1,0 +1,2 @@
+import{r as o,j as e}from"./vendor-Se1CAlJD.js";import{B as i}from"./index-cX7xNzSj.js";import"./auth-PrcDRVv8.js";import"./caption-parsing-KgWHY-ZV.js";import"./react-dom-PGDK0Dvr.js";import"./locales-PAqV36SG.js";import"./Icons-b9E2CxRo.js";import"./hls-zqvr_1ex.js";import"./ietf-language-tags-BPvdlnin.js";function x(){const[r,t]=o.useState(!1);if(r)throw new Error("I crashed");return e.jsx(i,{onClick:()=>t(!0),children:"Crash me!"})}export{x as default};
+//# sourceMappingURL=TestView-3xzeKz-G.js.map
